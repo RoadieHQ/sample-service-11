@@ -1,15 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sample-service-1
+  name: sample-service-11
   description: A test service
-  title: Sample Service 1
+  title: Sample Service 11
   links:
     - url: https://www.notion.so/roadie/Sample-Service-e067465e56a14ae9b0507f8559f6aa26
       title: Datadog
       icon: dashboard
   annotations:
-    github.com/project-slug: RoadieHQ/sample-service-1
+    github.com/project-slug: RoadieHQ/sample-service-11
 spec:
   type: other
   lifecycle: experimental
