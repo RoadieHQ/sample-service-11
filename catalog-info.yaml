@@ -12,6 +12,7 @@ metadata:
       icon: dashboard
   annotations:
     github.com/project-slug: RoadieHQ/sample-service-11
+    pagerduty.com/service-id: PC5RPRK
 spec:
   type: other
   lifecycle: experimental
